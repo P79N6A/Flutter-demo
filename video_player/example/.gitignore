@@ -1,0 +1,4 @@
+ios/Pods/*
+android/*
+build/*
+ios/Flutter/*

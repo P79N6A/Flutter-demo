@@ -1,0 +1,4 @@
+.idea/*
+.packages
+example/.flutter-plugins
+example/ios/.symlinks/*
